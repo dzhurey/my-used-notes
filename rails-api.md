@@ -15,5 +15,7 @@ Rest API with Ruby on Rails and PostgreSQL
 1. Create new Rails project
 
 ```
-rails new <app_name> --database=postgresql —api
+rails new <app_name> --database=postgresql —-api
 ```
+
+2. Setup env file
